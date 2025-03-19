@@ -1,0 +1,7 @@
+student@K2-A103-05 MINGW64 /D/sem (master)
+$ git log
+commit a19cf00b29e9fc0032c1168f20d946aa6758f50f (HEAD -> master)
+Author: Семен Нохрин <nohrinsemen7@gmail.com>
+Date:   Wed Mar 19 18:31:05 2025 +0500
+
+    Добавил репозиторий
